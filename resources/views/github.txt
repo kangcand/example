@@ -1,0 +1,18 @@
+Push Ke github
+di folder Code(Linux)/www(windows laragon)/htdocs(windows xampp)
+silahkan buat project laravel baru dengan nama 'latihan-crud'
+
+Cara Push ke github
+A. repository baru
+1. git init
+2. git config user.name "NamaSendiri"
+3. git config user.email "Email Sendiri"
+4. git add .
+5. git commit -m "Pesan Deskripsi Apa saja yg sudah dikerjakan"
+6. git remote add origin https://github.com/username/repo.git
+7. git push -u origin master
+
+B. sudah punya repository
+1. git add .
+2. git commit -m"Pesan Deskripsi Apa saja yg sudah dikerjakan"
+3. git push -u origin master
